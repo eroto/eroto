@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eroto
+- 👋 Hi, I’m Enrique (@eroto)
 - 👀 I’m interested in Embedded systems and cryptography
 - 👀 I'm experience in C
 - 🌱 I’m currently learning python
